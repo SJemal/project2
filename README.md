@@ -21,7 +21,7 @@
 * Clone github repository
 * Open the cloned file
 * Open index.html
-* This project can also be via Github Pages at : https://sjemal.github.io/portfolio/
+* This project can also be via Github Pages at : https://sjemal.github.io/project2/
 
 
 ## Known Bugs
