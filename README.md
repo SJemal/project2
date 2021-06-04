@@ -6,9 +6,9 @@
 
 * HTML
 * CSS
-* VS Code
 * JavaScript
 * Jquery
+* VS Code
 
 
 
@@ -26,7 +26,8 @@
 
 ## Known Bugs
 
-* None as of current
+* There is an error in the jQuery code page.
+* The answer box is not displayed.
 
 ## License
  [MIT](LICENSE)
